@@ -6,7 +6,11 @@ This content is designed to enable engineers and software developers to learn th
 
 _Everything in this repo should be self contained and fully documented. Please file an issue on the repo if you find any bugs or notice something is unclear or incorrect!_ 
 
+The content is divided into a set of hands-on workshops, each of which covers some Machine Learning concepts for you to learn and try out for yourself.
 
+The majority of the content will be presented in [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/). Before you dive into the workshops, we recommend you work through [this notebook](00-jupyter-notebooks.ipynb) to get comfortable with the Jupyter Notebook environment. 
+
+<!--
 The content in this repo is divided into five sections: 
 
 ### 00-Preliminaries 
@@ -46,3 +50,4 @@ Once your machine learning model is running in production there are tonnes of ad
 - model monitoring techniques,
 - using pre-trained models. 
 
+-->

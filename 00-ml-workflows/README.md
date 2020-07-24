@@ -3,11 +3,12 @@
 
 This repository has materials from a hands-on tutorial on machine learning workflows. By the end of this workshop you will have trained and evaluated your own machine learning model to identify spam messages. 
 
+The highlighted sections of the machine learning workflow are covered in this workshop.
 
-The notebooks are numbered sequentially and should be run in order. In some cases, if you don't run all cells in the notebook you will not be able to complete the subsequent notebooks.  
-### Tools, technologies and ML concepts
+![ml workflows workshop](../Images/workflow-mlwflow.png)
 
-You will learn about the following: 
+You'll be exposed to the following tools, technologies and machine learning concepts in this workshop: 
+
 ### Tools and technologies
 - Jupyter Notebooks
 - Python Libraries for data science
@@ -18,13 +19,11 @@ You will learn about the following:
 	- Alibi by Seldon
 - Scikit learn pipelines 
 ### Concepts and techniques
-
 - Natural Language Processing (NLP) techniques:
 	- k-shingles 
 	- tf-idf
-
 - Visualising data	
-	- declaritive visualisation 
+	- declarative visualisation 
 - Dimensionality reduction techniques 
    - Principal component analysis (PCA)
    - t-SNE
@@ -39,12 +38,15 @@ You will learn about the following:
 	- feature selection concerns
 	- Custom feature vectors
 	- tf-idf
-
 - Modelling
 	- Models for binary classification
 		-  logistic regression
 		-  random forests and decision trees
 -  Machine learning pipelines 
+
+
+The notebooks are numbered sequentially and should be run in order. In some cases, if you don't run all cells in the notebook you will not be able to complete the subsequent notebooks.  
+
 
 
 Here's how to run the interactive notebooks:

@@ -17,6 +17,8 @@ The majority of the content will be presented in [Jupyter notebooks](https://jup
 
 Each workshop focuses on stages of the machine learning workflow. You'll find more information about the contents of each workshop in the corresponding README. 
 
+![The Machine Learning Workflow](Images/workflow.png)
+
 
 #### [00-ml-workflows](00-ml-workflows)
 

@@ -24,7 +24,9 @@ Each workshop focuses on stages of the machine learning workflow. You'll find mo
 
 This workshop covers the stages of the machine learning workflow up to production. You will be able to train a couple of models and compare their performance when applied to the use case of spam detection. 
 
+#### [01-stats-to-serverless-on-openshift4](01-stats-to-serverless-on-openshift4)
 
+This workshop teaches you how to develop a fraud detection technique in Jupyter notebooks, then use Tekton pipelines to deploy your model as a serverless service on OpenShift. 
 
 <!--
 The content in this repo is divided into five sections: 

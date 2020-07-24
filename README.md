@@ -6,13 +6,17 @@ This content is designed to enable engineers and software developers to learn th
 
 _Everything in this repo should be self contained and fully documented. Please file an issue on the repo if you find any bugs or notice something is unclear or incorrect!_ 
 
-The content is divided into a set of hands-on workshops, each of which covers some machine learning concepts for you to learn and try out for yourself.
+The content is divided into a set of hands-on workshops, each of which steps through the machine learning workflow in the context of a concrete application. In each workshop you'll learn some machine learning concepts and potential pitfalls, and get a chance try things out for yourself.
+
+### Preliminaries
 
 The majority of the content will be presented in [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/). Before you dive into the workshops, we recommend you work through [this notebook](00-jupyter-notebooks.ipynb) to get comfortable with the Jupyter Notebook environment. 
 
+### Workshops
+
+
 Each workshop focuses on stages of the machine learning workflow. You'll find more information about the contents of each workshop in the corresponding README. 
 
-### Workshops
 
 #### [00-ml-workflows](00-ml-workflows)
 

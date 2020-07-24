@@ -10,11 +10,12 @@ The notebooks are numbered sequentially and should be run in order. In some case
 You will learn about the following: 
 ### Tools and technologies
 - Jupyter Notebooks
-- Python Libraries for Data science
+- Python Libraries for data science
 	- pandas
 	- numpy
 	- scikit-learn
 	- Altair
+	- Alibi by Seldon
 - Scikit learn pipelines 
 ### Concepts and techniques
 
@@ -33,6 +34,7 @@ You will learn about the following:
 	- precision 
 	- confusion matrices
 	- f_beta scores
+- Data Drift
 - Feature engineering
 	- feature selection concerns
 	- Custom feature vectors

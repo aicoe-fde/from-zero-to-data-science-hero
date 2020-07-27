@@ -18,6 +18,8 @@ You'll be exposed to the following tools, technologies and machine learning conc
 	- Altair
 	- Alibi by Seldon
 - Scikit learn pipelines 
+
+
 ### Concepts and techniques
 - Natural Language Processing (NLP) techniques:
 	- k-shingles 

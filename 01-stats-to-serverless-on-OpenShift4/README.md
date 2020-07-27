@@ -23,6 +23,8 @@ You'll be exposed to the following tools, technologies and machine learning conc
 - Prometheus
 - Tekton
 - K-native
+
+
 ### Concepts and techniques
 - Natural Language Processing (NLP) techniques:
 	- k-shingles 
@@ -48,7 +50,8 @@ The notebooks are numbered sequentially and should be run in order. In some case
 To deploy the workshop on an RHPDS cluster, visit the [deploy script](deploy/deploy.md). 
 
 If you don't have access to an RHPDS cluster you will still be able to run the first few notebooks in this workshop locally. 
-### Install the notebooks and dependencies
+
+####ß Install the notebooks and dependencies
 
 1.  Clone this repository:  `git clone https://github.com/aicoe-fde/fraud-notebooks`
     - tip:  if you don't have `git` installed, you can also [download an archive of this repository](https://github.com/willb/ml-workflows-notebook/archive/master.zip)

@@ -8,7 +8,7 @@ The goal of this workshop is to show application developers how data scientists 
 
 The full machine learning workflow is covered by this workshop. 
 
-![workflow-s2s.png](../Images/workflow-s2s.png)
+![workflow-s2s.png](../Images/workflow-stats-2-s.png)
 
 You'll be exposed to the following tools, technologies and machine learning concepts in this workshop: 
 

@@ -5,7 +5,7 @@ This repository has materials from a hands-on tutorial on machine learning workf
 
 The highlighted sections of the machine learning workflow are covered in this workshop.
 
-![ml workflows workshop](../Images/workflow-mlwflow.png)
+![ml workflows workshop](../Images/workflow-mlworkflow.png)
 
 You'll be exposed to the following tools, technologies and machine learning concepts in this workshop: 
 
